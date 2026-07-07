@@ -181,6 +181,12 @@ In Cursor:
 
 ---
 
+---
+
+## License
+
+Copyright © 2026 Ravi Raj. Licensed under the [MIT License](LICENSE).
+
 ## Publishing (maintainers)
 
 Repo: https://github.com/raviraj-ntp/jenkins-mcp · npm: `@raviraj87/jenkins-mcp`
