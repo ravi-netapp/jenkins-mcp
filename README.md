@@ -4,7 +4,7 @@ Local MCP server for **Jenkins** — ~37 tools for jobs, builds, logs, artifacts
 
 - Runs on **your machine**
 - **npm:** `@raviraj87/jenkins-mcp` — https://www.npmjs.com/package/@raviraj87/jenkins-mcp
-- **GitHub:** https://github.com/ravi-netapp/jenkins-mcp
+- **GitHub:** https://github.com/raviraj-ntp/jenkins-mcp
 
 ---
 
@@ -34,7 +34,7 @@ Restart Cursor. Ask: *"Use jenkins_health"*.
 ## Install from source (optional)
 
 ```bash
-git clone https://github.com/ravi-netapp/jenkins-mcp.git
+git clone https://github.com/raviraj-ntp/jenkins-mcp.git
 cd jenkins-mcp
 npm install
 npm run build
